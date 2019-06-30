@@ -1,4 +1,5 @@
-import React, {PropTypes as t} from 'react'
+import React from 'react'
+import t from 'prop-types'
 import Link from 'react-router/lib/Link'
 import withRouter from 'react-router/lib/withRouter'
 
